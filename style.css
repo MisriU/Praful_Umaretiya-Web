@@ -1,12 +1,12 @@
 body
 {
     text-align: center;
-    background-color:whitesmoke;
+    background-color:rgb(181, 241, 179);
 }
 #welcome {
     color: #FFFFFF;
     bottom: 0;
-    background: linear-gradient(#008181 0%, #87e5f1 100%);
+    background: linear-gradient(#0a5834 0%, #058621 100%);
     display: table;
     width: 100%;
     height: 100%;
@@ -52,4 +52,13 @@ p{
     font-size: 30px;
     background-image: url("CVZ.gif");
     color: white;
+}
+
+#mynavbar{
+    position:fixed;
+    background-color: black;
+    font-size: 20px;
+    color:white;
+    width:100%;
+
 }
